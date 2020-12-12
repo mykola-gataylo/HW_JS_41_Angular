@@ -10,7 +10,6 @@ export class HeaderComponent implements OnInit {
   subTitle = 'Education of Angular';
 
   constructor() {
-    
   }
 
   ngOnInit(): void {
